@@ -81,5 +81,5 @@
 
 ---
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Atryee-Chatterjee&color=00ff00&style=flat-square" alt="Profile Views" /> <br/> <br/>
-<i> "First, solve the problem. Then, write the code." — John Johnson</i>
+<i>"From databases to design, I build the whole picture."</i>
 
