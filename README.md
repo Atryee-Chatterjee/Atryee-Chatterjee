@@ -61,14 +61,6 @@
 
 ---
 
-### 📊 **GITHUB STATS**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atryee-Chatterjee&theme=radical" />
-</div>
-
----
-
 ### 🕹️ **PROGRAMMER'S MINDSET**
 
 <pre>const Atryee = {
