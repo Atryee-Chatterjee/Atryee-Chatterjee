@@ -73,5 +73,5 @@
 
 ---
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Atryee-Chatterjee&color=00ff00&style=flat-square" alt="Profile Views" /> <br/> <br/>
-<i>"From databases to design, I build the whole picture."</i>
+<i>"Vision without execution is hallucination,<br>Execution without a vision is just blind foolishness."</i>
 
