@@ -183,17 +183,6 @@ It combines NLP preprocessing, predictive modeling, and data visualization to de
 
 ---
 
-### 🕹️ **PROGRAMMER'S MINDSET**
-
-<pre>const Atryee = {
-  code: ["JavaScript", "Python", "Java", "C", "PHP"],
-  frameworks: ["React", "Node.js", "Express", "Flask"],
-  databases: ["MongoDB", "MySQL"],
-  currentFocus: "WebSockets & Real-time Applications",
-  quote: "Code is like humor. When you have to explain it, it's bad."
-};</pre>
-
----
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Atryee-Chatterjee&color=00ff00&style=flat-square" alt="Profile Views" /> <br/> <br/>
 <i>"Vision without execution is hallucination,<br>Execution without a vision is just blind foolishness."</i>
 
