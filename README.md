@@ -89,7 +89,7 @@
 
 <table>
 <tr>
-<td width="40%" valign="top" >
+<td width="50%" valign="top" >
 
 ### 🏡 Zathura - A full-stack accommodation booking platform
 
@@ -104,7 +104,7 @@ It features modern web development practices and comprehensive functionality for
 
 </td>
 
-<td width="60%">
+<td width="50%">
 <a href="https://zathura.onrender.com/listings" target="_blank">
   <img src="https://raw.githubusercontent.com/Atryee-Chatterjee/Zathura/main/public/image/zathura_img.png" width="100%" style="border-radius: 20px;"  />
 </a>
@@ -116,7 +116,7 @@ It features modern web development practices and comprehensive functionality for
 
 <table>
 <tr>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
 ### 🎭 AskMeMaybe - AI-Powered RAG-Based PDF Question Answering System
 
@@ -130,7 +130,7 @@ It uses Flask for the backend, FAISS for vector search, and LLaMA 3.1 via OpenRo
 <br></br>
 </td>
 
-<td width="60%">
+<td width="50%">
 <a href="https://askmemaybe.onrender.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Atryee-Chatterjee/AskMeMaybe/main/static/assets/images/askmemaybe_img.png" width="100%"  />
 </a>
@@ -142,7 +142,7 @@ It uses Flask for the backend, FAISS for vector search, and LLaMA 3.1 via OpenRo
 
 <table>
 <tr>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
 ### 🚨 SpamNix - AI-Powered Spam Detection System
 
@@ -157,7 +157,7 @@ It combines NLP preprocessing, predictive modeling, and data visualization to de
 
 </td>
 
-<td width="60%">
+<td width="50%">
 <a href="https://spam-ubh0.onrender.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Atryee-Chatterjee/SpamNix/main/static/images/spamnix_img.png" width="100%" />
 </a>
