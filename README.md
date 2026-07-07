@@ -59,7 +59,88 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
+### 🚀 FEATURED PROJECTS
+
 ---
+
+<table>
+<tr>
+<td width="40%" valign="top" >
+
+### 🏡 Zathura - A full-stack accommodation booking platform
+
+Zathura is a full-stack accommodation booking app built with Node.js, Express, and MongoDB, featuring authentication via Passport.js and interactive maps with Mapbox.
+
+It features modern web development practices and comprehensive functionality for property listings, user authentication, and booking management.
+
+**Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Mapbox API, Cloudinary, Passport.js 
+
+<a href="https://zathura.onrender.com/listings" target="_blank"><b>Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Atryee-Chatterjee/Zathura" target="_blank"><b>GitHub Link</b></a>
+<br></br>
+
+</td>
+
+<td width="60%">
+<a href="https://zathura.onrender.com/listings" target="_blank">
+  <img src="https://raw.githubusercontent.com/Atryee-Chatterjee/Zathura/main/public/image/zathura_img.png" width="100%" style="border-radius: 20px;"  />
+</a>
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="40%" valign="top">
+
+### 🎭 AskMeMaybe - Al-Powered RAG-Based PDF Question Answering System
+
+AskMeMaybe is a sleek AI-powered RAG based PDF chat assistant  that allows users to upload multiple PDFs and ask questions in natural language. 
+
+It uses Flask for the backend, FAISS for vector search, and LLaMA 3.1 via OpenRouter with HuggingFace embeddings (all-MiniLM-L6-v2) for generating grounded answers with source citations.
+
+**Tech Stack:** Python, Flask, FAISS, LLaMA 3 (via OpenRouter), Sentence Transformers, LangChain, HTML, CSS, JavaScript 
+
+<a href="https://askmemaybe.onrender.com/" target="_blank"><b>Live Demo</b></a> &nbsp;|&nbsp;<a href="https://github.com/Atryee-Chatterjee/AskMeMaybe/" target="_blank"><b>GitHub Link</b> </a>
+<br></br>
+</td>
+
+<td width="60%">
+<a href="https://askmemaybe.onrender.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/Atryee-Chatterjee/AskMeMaybe/main/static/assets/images/askmemaybe_img.png" width="100%"  />
+</a>
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="40%" valign="top">
+
+### 🚨 SpamNix - AI-Powered Spam Detection System
+
+SpamNix is an AI-powered spam detection system that leverages multiple machine learning models to analyze and classify messages in real time.
+
+It combines NLP preprocessing, predictive modeling, and data visualization to deliver accurate insights and spam probability analytics through an interactive web interface.
+
+**Tech Stack:** Flask, Python, Scikit-learn, NLTK, Chart.js, Bootstrap
+
+<a href="https://spam-ubh0.onrender.com/" target="_blank"><b>Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Atryee-Chatterjee/SpamNix"><b>GitHub Link</b></a>
+<br></br>
+
+</td>
+
+<td width="60%">
+<a href="https://spam-ubh0.onrender.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/Atryee-Chatterjee/SpamNix/main/static/images/spamnix_img.png" width="100%" />
+</a>
+</td>
+</tr>
+</table>
+<br></br>
 
 ### 🕹️ **PROGRAMMER'S MINDSET**
 
