@@ -115,13 +115,13 @@ It features modern web development practices and comprehensive functionality for
 
 **Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Mapbox API, Cloudinary, Passport.js 
 
-<a href="https://zathura.onrender.com/listings" target="_blank"><b>Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Atryee-Chatterjee/Zathura" target="_blank"><b>GitHub Link</b></a>
+<a href="https://zathura.onrender.com/" target="_blank"><b>Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Atryee-Chatterjee/Zathura" target="_blank"><b>GitHub Link</b></a>
 <br></br>
 
 </td>
 
 <td width="50%">
-<a href="https://zathura.onrender.com/listings" target="_blank">
+<a href="https://zathura.onrender.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Atryee-Chatterjee/Zathura/main/public/image/zathura_img.png" width="100%" style="border-radius: 20px;"  />
 </a>
 </td>
@@ -168,13 +168,13 @@ It combines NLP preprocessing, predictive modeling, and data visualization to de
 
 **Tech Stack:** Flask, Python, Scikit-learn, NLTK, Chart.js, Bootstrap
 
-<a href="https://spam-ubh0.onrender.com/" target="_blank"><b>Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Atryee-Chatterjee/SpamNix"><b>GitHub Link</b></a>
+<a href="https://spamnix.onrender.com/" target="_blank"><b>Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Atryee-Chatterjee/SpamNix"><b>GitHub Link</b></a>
 <br></br>
 
 </td>
 
 <td width="50%">
-<a href="https://spam-ubh0.onrender.com/" target="_blank">
+<a href="https://spamnix.onrender.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Atryee-Chatterjee/SpamNix/main/static/images/spamnix_img.png" width="100%" />
 </a>
 </td>
