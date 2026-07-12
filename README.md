@@ -109,9 +109,7 @@
 
 ### 🏡 Zathura - A full-stack accommodation booking platform
 
-Zathura is a full-stack accommodation booking app built with Node.js, Express, and MongoDB, featuring authentication via Passport.js and interactive maps with Mapbox.
-
-It features modern web development practices and comprehensive functionality for property listings, user authentication, and booking management.
+A full-stack booking platform enabling seamless property discovery, secure authentication, and interactive map-based exploration.
 
 **Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Mapbox API, Cloudinary, Passport.js 
 
@@ -136,9 +134,7 @@ It features modern web development practices and comprehensive functionality for
 
 ### 🎭 AskMeMaybe - AI-Powered RAG-Based PDF Question Answering System
 
-AskMeMaybe is an AI-powered RAG-based PDF chat assistant that enables semantic search and contextual Q&A across multiple documents. 
-
-It uses Flask for the backend, FAISS for vector search, and LLaMA 3.1 via OpenRouter with HuggingFace embeddings (all-MiniLM-L6-v2) for generating grounded answers with source citations.
+An AI-driven RAG system that delivers precise, context-aware answers from PDFs using semantic search and LLMs.
 
 **Tech Stack:** Python, Flask, FAISS, LLaMA 3 (via OpenRouter), Sentence Transformers, LangChain, HTML, CSS, JavaScript 
 
@@ -162,9 +158,7 @@ It uses Flask for the backend, FAISS for vector search, and LLaMA 3.1 via OpenRo
 
 ### 🚨 SpamNix - AI-Powered Spam Detection System
 
-SpamNix is an AI-powered spam detection system that leverages multiple machine learning models to analyze and classify messages in real time.
-
-It combines NLP preprocessing, predictive modeling, and data visualization to deliver accurate insights and spam probability analytics through an interactive web interface.
+An intelligent spam detection system leveraging NLP and machine learning for real-time message classification and insights.
 
 **Tech Stack:** Flask, Python, Scikit-learn, NLTK, Chart.js, Bootstrap
 
