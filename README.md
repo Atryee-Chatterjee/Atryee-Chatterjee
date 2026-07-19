@@ -34,10 +34,10 @@
 
 ### 🎮 **ABOUT ME**
 
-💻 4th year BCA Student | Full Stack Developer      
-📚 Currently learning: WebSockets & real-time application development  
-🚀 Passionate about building real-world web applications using the MERN stack                                                                  
-🎲 Fun fact: I debug faster after 2am than at 2pm                          
+• 4th year BCA Student | Full Stack Developer      
+• Currently learning: WebSockets & real-time application development  
+• Passionate about building real-world web applications using the MERN stack                                                                  
+• Fun fact: I debug faster after 2am than at 2pm                          
 
 
 ---
