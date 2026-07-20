@@ -14,10 +14,6 @@
   </a>
 </p>
 
----
-
-### 📊  **CONTRIBUTION ACTIVITY**
-
 <p align="center">
   <img src="https://github.com/Atryee-Chatterjee/Atryee-Chatterjee/blob/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 </p>
