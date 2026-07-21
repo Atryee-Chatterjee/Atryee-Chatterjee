@@ -18,9 +18,6 @@
   <img src="https://github.com/Atryee-Chatterjee/Atryee-Chatterjee/blob/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 </p>
 
----
-
-### 📊 GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atryee-Chatterjee&theme=tokyonight&hide_border=true" alt="Atryee's Contribution Streak" />
@@ -28,13 +25,13 @@
 
 ---
 
-### 🎮 **ABOUT ME**
+### 🚀 **Hi, I'm Atryee**
 
-• 4th year BCA Student | Full Stack Developer      
-• Currently learning: WebSockets & real-time application development  
-• Passionate about building real-world web applications using the MERN stack                                                                  
-• Fun fact: I debug faster after 2am than at 2pm                          
+Final-year BCA student and full-stack MERN developer building real-world web apps — from backend logic to clean frontend interfaces. I enjoy debugging chaos and figuring out how things actually work behind the scenes.
 
+Currently exploring WebSockets, real-time systems, and better backend design.
+
+Late-night debugging > daytime coding ⚡
 
 ---
 ### ⚡ TECH STACK
@@ -99,77 +96,32 @@
 
 ### 🚀 FEATURED PROJECTS
 
-<table>
-<tr>
-<td width="50%" valign="top" >
-
-### 🏡 Zathura - A full-stack accommodation booking platform
-
+#### 🏡 [Zathura](https://zathura.onrender.com/) — A full-stack accommodation booking platform
 A full-stack booking platform enabling seamless property discovery, secure authentication, and interactive map-based exploration.
 
-**Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Mapbox API, Cloudinary, Passport.js 
+**Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Mapbox API, Cloudinary, Passport.js  
 
-<a href="https://zathura.onrender.com/" target="_blank"><b>Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Atryee-Chatterjee/Zathura" target="_blank"><b>GitHub Link</b></a>
-<br></br>
-
-</td>
-
-<td width="50%">
-<a href="https://zathura.onrender.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Atryee-Chatterjee/Zathura/main/public/image/zathura_img.png" width="100%" style="border-radius: 20px;"  />
-</a>
-</td>
-</tr>
-</table>
+🔗 <a href="https://zathura.onrender.com/" target="_blank"><b>Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Atryee-Chatterjee/Zathura" target="_blank"><b>GitHub Link</b></a>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎭 AskMeMaybe - AI-Powered RAG-Based PDF Question Answering System
-
+#### 🎭 [AskMeMaybe](https://askmemaybe.onrender.com/) — AI-Powered RAG-Based PDF Question Answering System
 An AI-driven RAG system that delivers precise, context-aware answers from PDFs using semantic search and LLMs.
 
-**Tech Stack:** Python, Flask, FAISS, LLaMA 3 (via OpenRouter), Sentence Transformers, LangChain, HTML, CSS, JavaScript 
+**Tech Stack:** Python, Flask, FAISS, LLaMA 3 (via OpenRouter), Sentence Transformers, LangChain, HTML, CSS, JavaScript
 
-<a href="https://askmemaybe.onrender.com/" target="_blank"><b>Live Demo</b></a> &nbsp;|&nbsp;<a href="https://github.com/Atryee-Chatterjee/AskMeMaybe/" target="_blank"><b>GitHub Link</b> </a>
-<br></br>
-</td>
+🔗 <a href="https://askmemaybe.onrender.com/" target="_blank"><b>Live Demo</b></a> &nbsp;|&nbsp;<a href="https://github.com/Atryee-Chatterjee/AskMeMaybe/"
+target="_blank"><b>GitHub Link</b> </a>
 
-<td width="50%">
-<a href="https://askmemaybe.onrender.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Atryee-Chatterjee/AskMeMaybe/main/static/assets/images/askmemaybe_img.png" width="100%"  />
-</a>
-</td>
-</tr>
-</table>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚨 SpamNix - AI-Powered Spam Detection System
-
+#### 🚨 [SpamNix](https://spamnix.onrender.com/) — AI-Powered Spam Detection System
 An intelligent spam detection system leveraging NLP and machine learning for real-time message classification and insights.
 
 **Tech Stack:** Flask, Python, Scikit-learn, NLTK, Chart.js, Bootstrap
 
-<a href="https://spamnix.onrender.com/" target="_blank"><b>Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Atryee-Chatterjee/SpamNix"><b>GitHub Link</b></a>
-<br></br>
-
-</td>
-
-<td width="50%">
-<a href="https://spamnix.onrender.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Atryee-Chatterjee/SpamNix/main/static/images/spamnix_img.png" width="100%" />
-</a>
-</td>
-</tr>
-</table>
+🔗 <a href="https://spamnix.onrender.com/" target="_blank"><b>Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Atryee-Chatterjee/SpamNix"><b>GitHub Link</b></a>
 
 ---
 
