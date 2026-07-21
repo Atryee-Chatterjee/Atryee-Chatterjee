@@ -14,15 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Atryee-Chatterjee/Atryee-Chatterjee/blob/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atryee-Chatterjee&theme=tokyonight&hide_border=true" alt="Atryee's Contribution Streak" />
-</p>
-
 ---
 
 ### 🚀 **Hi, I'm Atryee**
@@ -32,6 +23,7 @@ Final-year BCA student and full-stack MERN developer building real-world web app
 Currently exploring WebSockets, real-time systems, and better backend design.
 
 Late-night debugging > daytime coding ⚡
+
 
 ---
 ### ⚡ TECH STACK
@@ -90,7 +82,6 @@ Late-night debugging > daytime coding ⚡
 </tr>
 
 </table>
-</br>
 
 ---
 
@@ -125,6 +116,21 @@ An intelligent spam detection system leveraging NLP and machine learning for rea
 
 ---
 
+### 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atryee-Chatterjee&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/Atryee-Chatterjee/Atryee-Chatterjee/blob/output/pacman-contribution-graph-dark.svg" />
+</p>
+
+---
+
+</br>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Atryee-Chatterjee&color=00ff00&style=flat-square" alt="Profile Views" /> <br/> <br/>
 <i>"Vision without execution is hallucination,<br>Execution without a vision is just blind foolishness."</i>
 
