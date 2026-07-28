@@ -14,8 +14,6 @@
   </a>
 </p>
 
----
-
 ### 🚀 **Hi, I'm Atryee**
 
 Final-year BCA student and full-stack MERN developer building real-world web apps — from backend logic to clean frontend interfaces. I enjoy debugging chaos and figuring out how things actually work behind the scenes.
@@ -114,21 +112,14 @@ An intelligent spam detection system leveraging NLP and machine learning for rea
 
 🔗 <a href="https://spamnix.onrender.com/" target="_blank"><b>Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Atryee-Chatterjee/SpamNix"><b>GitHub Link</b></a>
 
----
+</br>
 
-### 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atryee-Chatterjee&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
 
 <p align="center">
   <img src="https://github.com/Atryee-Chatterjee/Atryee-Chatterjee/blob/output/pacman-contribution-graph-dark.svg" />
 </p>
 
----
+
 
 </br>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Atryee-Chatterjee&color=00ff00&style=flat-square" alt="Profile Views" /> <br/> <br/>
