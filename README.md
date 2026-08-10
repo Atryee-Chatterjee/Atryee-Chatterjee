@@ -20,8 +20,6 @@
   </a>
 </p>
 
----
-
 ## 🚀 About Me
 
 I'm a final-year BCA student and full-stack MERN developer passionate about building real-world web applications—from backend logic to clean frontend interfaces. I enjoy debugging complex systems and understanding how things actually work behind the scenes.
@@ -133,22 +131,11 @@ An intelligent spam detection system leveraging NLP and machine learning for rea
 
 ## 💬 Let's Connect
 
-I'm always open to interesting conversations, collaboration opportunities, or just geeking out about tech!
+I'm always open to interesting conversations, collaboration opportunities, or just geeking out about tech! 
+</br>
+<a href="https://www.linkedin.com/in/atryee-chatterjee/" target="_blank">LinkedIn</a> | <a href="mailto:atryeechatterjee31@gmail.com" target="_blank">Gmail</a> | <a href="https://leetcode.com/u/Atryee_Chatterjee/" target="_blank">LeetCode</a> | <a href="https://www.youtube.com/@AtryeeChatterjee" target="_blank">YouTube</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/atryee-chatterjee/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@AtryeeChatterjee" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:atryeechatterjee31@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Atryee_Chatterjee/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+</br>
 
 ---
 
