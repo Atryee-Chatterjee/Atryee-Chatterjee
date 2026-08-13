@@ -135,8 +135,6 @@ I'm always open to interesting conversations, collaboration opportunities, or ju
 </br>
 <a href="https://www.linkedin.com/in/atryee-chatterjee/" target="_blank">LinkedIn</a> | <a href="mailto:atryeechatterjee31@gmail.com" target="_blank">Gmail</a> | <a href="https://leetcode.com/u/Atryee_Chatterjee/" target="_blank">LeetCode</a> | <a href="https://www.youtube.com/@AtryeeChatterjee" target="_blank">YouTube</a>
 
-</br>
-
 ---
 
 <div align="center">
