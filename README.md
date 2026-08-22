@@ -24,9 +24,9 @@
 
 I'm a final-year BCA student and full-stack MERN developer passionate about building real-world web applications—from backend logic to clean frontend interfaces. I enjoy debugging complex systems and understanding how things actually work behind the scenes.
 
-- 🔭 Currently working on: **Real-time systems with WebSockets**
-- 🌱 Learning: **System Design & Advanced Backend Architecture**
-- ⚡ Fun fact: **Late-night debugging > daytime coding**
+- Currently working on: **Real-time systems with WebSockets**
+- Learning: **System Design & Advanced Backend Architecture**
+- Fun fact: **Late-night debugging > daytime coding**
 
 ---
 
@@ -83,14 +83,6 @@ I'm a final-year BCA student and full-stack MERN developer passionate about buil
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atryee-Chatterjee&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🏡 [Zathura](https://zathura.onrender.com/)
@@ -142,7 +134,6 @@ I'm always open to interesting conversations, collaboration opportunities, or ju
     <b>"Vision without execution is hallucination,<br/>
     Execution without a vision is just blind foolishness."</b>
     <br/>
-    — Atryee Chatterjee
   </i>
   <br/><br/>
   <div align="center">
