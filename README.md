@@ -30,35 +30,26 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🚀 Featured Projects
 - **[Zathura](https://zathura.onrender.com/)** - Full-stack accommodation booking platform *(Node.js, Express, MongoDB, Mapbox)* | [Demo](https://zathura.onrender.com/) | [Code](https://github.com/Atryee-Chatterjee/Zathura)
 - **[AskMeMaybe](https://askmemaybe.onrender.com/)** - AI-Powered RAG-Based PDF Question Answering System *(Python, Flask, FAISS, LLaMA 3)* | [Demo](https://askmemaybe.onrender.com/) | [Code](https://github.com/Atryee-Chatterjee/AskMeMaybe/)
 - **[SpamNix](https://spamnix.onrender.com/)** - AI-Powered Spam Detection System *(Flask, Python, Scikit-learn, NLTK)* | [Demo](https://spamnix.onrender.com/) | [Code](https://github.com/Atryee-Chatterjee/SpamNix)
 
----
+<br/>
+
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img
-    src="./profile/stats.svg"
-    alt="GitHub Stats"
-  />
+  <img src="./profile/streak.svg" alt="GitHub Streak" width="45%" /> &nbsp; &nbsp;
+  <img src="./profile/stats.svg" alt="GitHub Stats" width="42%" />
+</p>
 
-  <img
-    src="./profile/top-langs.svg"
-    alt="Top Languages"
-  />
-</p>
-<p align="center">
-  <img
-    src="./profile/streak.svg"
-    alt="GitHub Streak"
-  />
-</p>
+<br/>
 
 <p align="center">
   <img
@@ -66,6 +57,7 @@
     alt="GitHub Activity Graph"
   />
 </p>
+
 <div align="center">
   <i><b>"Vision without execution is hallucination,<br/>Execution without a vision is just blind foolishness."</b></i>
   <br/><br/>
