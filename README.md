@@ -44,11 +44,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Atryee-Chatterjee&show_icons=true&theme=radical&hide_border=true"
+    src="./profile/stats.svg"
     alt="GitHub Stats"
   />
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atryee-Chatterjee&layout=compact&theme=radical&hide_border=true"
+    src="./profile/top-langs.svg"
     alt="Top Languages"
   />
 </p>
