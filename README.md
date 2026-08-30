@@ -53,10 +53,9 @@
     alt="Top Languages"
   />
 </p>
-
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Atryee-Chatterjee&theme=radical&hide_border=true"
+    src="./profile/streak.svg"
     alt="GitHub Streak"
   />
 </p>
