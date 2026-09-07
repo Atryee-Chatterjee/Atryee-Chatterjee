@@ -41,7 +41,6 @@
 - **[AskMeMaybe](https://askmemaybe.onrender.com/)** - AI-Powered RAG-Based PDF Question Answering System *(Python, Flask, FAISS, LLaMA 3)* | [Demo](https://askmemaybe.onrender.com/) | [Code](https://github.com/Atryee-Chatterjee/AskMeMaybe/)
 - **[SpamNix](https://spamnix.onrender.com/)** - AI-Powered Spam Detection System *(Flask, Python, Scikit-learn, NLTK)* | [Demo](https://spamnix.onrender.com/) | [Code](https://github.com/Atryee-Chatterjee/SpamNix)
 
-<br/>
 
 ### 📊 GitHub Stats & Activity
 
@@ -50,7 +49,6 @@
   <img src="./profile/stats.svg" alt="GitHub Stats" width="42%" />
 </p>
 
-<br/>
 
 <p align="center">
   <img
