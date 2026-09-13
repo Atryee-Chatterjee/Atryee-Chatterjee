@@ -35,7 +35,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+</br>
 ### 🚀 Featured Projects
 - **[Zathura](https://zathura.onrender.com/)** - Full-stack accommodation booking platform *(Node.js, Express, MongoDB, Mapbox)* | [Demo](https://zathura.onrender.com/) | [Code](https://github.com/Atryee-Chatterjee/Zathura)
 - **[AskMeMaybe](https://askmemaybe.onrender.com/)** - AI-Powered RAG-Based PDF Question Answering System *(Python, Flask, FAISS, LLaMA 3)* | [Demo](https://askmemaybe.onrender.com/) | [Code](https://github.com/Atryee-Chatterjee/AskMeMaybe/)
