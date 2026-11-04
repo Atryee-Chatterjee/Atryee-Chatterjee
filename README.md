@@ -8,15 +8,15 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@AtryeeChatterjee" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF3333" height="40" alt="YouTube" />
+    <img src="https://cdn.simpleicons.org/youtube/FF3333" height="45" alt="YouTube" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/atryee-chatterjee/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:atryeechatterjee31@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="45" alt="Gmail" />
   </a>
 </div>
 
