@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/Atryee_Chatterjee/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" alt="LeetCode" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@AtryeeChatterjee" target="_blank">
