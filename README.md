@@ -30,7 +30,7 @@
 ### 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,flask,python,php,java,c,mongodb,mysql&perline=15" alt="HTML, CSS, JavaScript, React, Tailwind CSS, Node.js, Express, Flask, Python, PHP, Java, C, MongoDB, and MySQL" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,flask,python,php,java,c,mongodb,mysql&perline=14" alt="HTML, CSS, JavaScript, React, Tailwind CSS, Node.js, Express, Flask, Python, PHP, Java, C, MongoDB, and MySQL" />
 </div>
 
 ### 🚀 Featured Projects
