@@ -22,24 +22,24 @@
 
 
 
-### 👋 About Me
+## 👋 About Me
 - Currently working on: **Real-time systems with WebSockets**
 - Learning: **System Design & Advanced Backend Architecture**
 - Fun fact: **Late-night debugging > daytime coding**
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,flask,python,php,java,c,mongodb,mysql&perline=14" alt="HTML, CSS, JavaScript, React, Tailwind CSS, Node.js, Express, Flask, Python, PHP, Java, C, MongoDB, and MySQL" />
 </div>
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 - **Zathura** - Full-stack accommodation booking platform *(Node.js, Express, MongoDB, Mapbox)* | [Demo](https://zathura.onrender.com/) | [Code](https://github.com/Atryee-Chatterjee/Zathura)
 - **AskMeMaybe** - AI-Powered RAG-Based PDF Question Answering System *(Python, Flask, FAISS, LLaMA 3)* | [Demo](https://askmemaybe.onrender.com/) | [Code](https://github.com/Atryee-Chatterjee/AskMeMaybe/)
 - **SpamNix** - AI-Powered Spam Detection System *(Flask, Python, Scikit-learn, NLTK)* | [Demo](https://spamnix.onrender.com/) | [Code](https://github.com/Atryee-Chatterjee/SpamNix)
 
 
-### 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak" width="45%" /> &nbsp; &nbsp;
