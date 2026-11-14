@@ -3,20 +3,20 @@
 </h1>
 
 <div align="center">
-  <a href="https://leetcode.com/u/Atryee_Chatterjee/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" alt="LeetCode" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@AtryeeChatterjee" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF3333" height="40" alt="YouTube" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/atryee-chatterjee/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:atryeechatterjee31@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Atryee_Chatterjee/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@AtryeeChatterjee" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF3333" height="40" alt="YouTube" />
   </a>
 </div>
 
@@ -42,10 +42,8 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" width="45%" /> &nbsp; &nbsp;
-  <img src="./profile/stats.svg" alt="GitHub Stats" width="42%" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" width="50%" /> &nbsp; &nbsp;
 </p>
-
 
 <p align="center">
   <img
