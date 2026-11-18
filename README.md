@@ -4,42 +4,42 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/atryee-chatterjee/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:atryeechatterjee31@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="35" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Atryee_Chatterjee/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" alt="LeetCode" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="35" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@AtryeeChatterjee" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF3333" height="40" alt="YouTube" />
+    <img src="https://cdn.simpleicons.org/youtube/FF3333" height="35" alt="YouTube" />
   </a>
 </div>
 
 
 
-## 👋 About Me
+##  About Me
 - Currently working on: **Real-time systems with WebSockets**
 - Learning: **System Design & Advanced Backend Architecture**
 - Fun fact: **Late-night debugging > daytime coding**
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,flask,python,php,java,c,mongodb,mysql&perline=14" alt="HTML, CSS, JavaScript, React, Tailwind CSS, Node.js, Express, Flask, Python, PHP, Java, C, MongoDB, and MySQL" />
 </div>
 
-## 🚀 Featured Projects
+##  Featured Projects
 - **Zathura** - Full-stack accommodation booking platform *(Node.js, Express, MongoDB, Mapbox)* | [Demo](https://zathura.onrender.com/) | [Code](https://github.com/Atryee-Chatterjee/Zathura)
 - **AskMeMaybe** - AI-Powered RAG-Based PDF Question Answering System *(Python, Flask, FAISS, LLaMA 3)* | [Demo](https://askmemaybe.onrender.com/) | [Code](https://github.com/Atryee-Chatterjee/AskMeMaybe/)
 - **SpamNix** - AI-Powered Spam Detection System *(Flask, Python, Scikit-learn, NLTK)* | [Demo](https://spamnix.onrender.com/) | [Code](https://github.com/Atryee-Chatterjee/SpamNix)
 
 
-## 📊 GitHub Stats & Activity
+##  GitHub Stats & Activity
 
 <p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak" width="50%" /> &nbsp; &nbsp;
